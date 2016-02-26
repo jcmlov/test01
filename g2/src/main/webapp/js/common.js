@@ -1,1 +1,1 @@
-var contextRoot = 'http://localhost:8008/g2';
+var contextRoot = 'http://localhost:8008/g3';
